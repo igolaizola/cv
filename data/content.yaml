@@ -1,0 +1,110 @@
+BasicInfo:
+  FirstName: Iñigo
+  LastName: Garcia Olaizola
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-map-marker-alt
+      Info: Irun, Spain
+    - Icon: fas fa-phone
+      Info: "@igolaizola" # Replace with telephone number
+    - Icon: fas fa-envelope
+      Info: "https://igolaizola.com/#contact" # Replace with email
+    - Icon: fas fa-calendar
+      Info: 07 June 1987
+
+Profile: >
+  I've always loved computers science and the art of coding, I've done it since 16 years old. Learned with C, internships with PHP and Java, mastered C# and currently working with Go.
+  Golang has encourage me to improve my Github account and collaborate with open source.
+
+Experience:
+  - Employer: SALTO Systems
+    Place: Oiartzun, Spain
+    Positions:
+      - Title: R&D Software Engineer
+        Date: Apr 2014 - Present
+        Details:
+          - Design and development of access control applications and device communications.
+          - Integration with a multitude of devices and protocols (proprietary, standard and third-party)
+          - Backend development in Golang (cloud apps) and C# (on premise apps)
+        Badges: ['Golang', 'CockroachDB', 'Git', 'Docker', 'Protobuf', 'C#', '.NET']
+  - Employer: Guidewire
+    Place: Dublin, Ireland
+    Positions:
+      - Title: Solution Consultant
+        Date: Jun 2013 - Apr 2014
+        Details:
+          - Configuration and integration of Guidewire products for insurance companies.
+          - Implementation of business rules according to the requirements of each project and client.
+          - Usage of agile methodologies (SCRUM)
+          - Development in Gosu and Java languages
+        Badges: ['Java', 'Gosu', 'SCRUM']
+  - Employer: Proyelia Innova
+    Place: San Sebastian, Spain
+    Positions:
+      - Title: Software Engineer
+        Date: Jul 2011 - Apr 2013
+        Details:
+          - Full stack development of Web applications.
+          - Automatization and integration of incoming VoIP calls using Asterisk PBX
+        Badges: ['PHP', 'Symfony', 'PostgreSQL', 'Javascript', 'HTML', 'CSS']
+
+Education:
+  - Course: Computer Science Engineering 
+    Place: University of the Basque Country, San Sebastian
+    Date: 2005 - 2009
+    Details:
+      - Mark 8.72 out of 10. 
+      - Awarded with the second best academic record
+  - Course: Industrial Organisation Engineering 
+    Place: University of the Basque Country, San Sebastian
+    Date: 2009 - 2013
+    Details: 
+      - Mark 7.5 out of 10. 
+      - 5 months of Erasmus abroad experience in Furtwangen (Germany)
+
+Skills:
+  - Family: Coding
+    Items:
+      - Golang
+      - C#
+  - Family: Tools
+    Items:
+      - Docker
+      - Git
+      - Google Cloud Platform
+  - Family: Database
+    Items:
+      - CockroachDB
+      - PostgreSQL
+      - SQL Server
+  - Family: Misc
+    Items:
+      - Cryptography
+      - Protobuf & gRPC
+      - MQTT
+      - DTLS
+
+Languages:
+  - Name: Spanish
+    Level: Native
+  - Name: Euskera
+    Level: Native
+  - Name: English
+    Level: Advanced user
+  - Name: French
+    Level: Basic user
+
+Links:
+  - Description: Open source projects
+    URL: https://github.com/igolaizola
+  - Description: Personal website 
+    URL: https://igolaizola.com
+  - Description: Sport races project
+    URL: https://aldapan.com
+
+Interests:
+  - Coding
+  - Cryptography
+  - IoT
+  - Triathlon
+  - Canoeing

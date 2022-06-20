@@ -61,3 +61,11 @@ University of Basque Country, San Sebastián (Spain). 5 months of Erasmus abroad
  - Open source projects: https://github.com/igolaizola
  - Personal website: https://igolaizola.com
  - Other projects: https://aldapan.com
+
+#
+
+Launch hugo server to view the CV formatted with [almeida-cv](https://github.com/ineesalmeida/almeida-cv) template.
+
+```
+hugo server -D
+```

@@ -1,0 +1,14 @@
+{{ if .Site.Data.content.Links }}
+<div class="sideSection">
+    <div class="sideSection__heading">
+        <h2 class="sideSection__title">Links</h2>
+    </div>
+    <div class="sideSection__content">
+        <ul>
+            {{ range .Site.Data.content.Links }}
+            <li>{{ .Description | safeHTML }} <a href="{{ .URL }}" >{{ .URL }}</a></li>
+            {{ end }}
+        </ul>
+    </div>
+</div>
+{{ end }}
